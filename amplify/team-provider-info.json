@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-doctorstrack-dev-120939-authRole",
+      "UnauthRoleArn": "arn:aws:iam::170587777569:role/amplify-doctorstrack-dev-120939-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::170587777569:role/amplify-doctorstrack-dev-120939-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-doctorstrack-dev-120939-deployment",
+      "UnauthRoleName": "amplify-doctorstrack-dev-120939-unauthRole",
+      "StackName": "amplify-doctorstrack-dev-120939",
+      "StackId": "arn:aws:cloudformation:eu-north-1:170587777569:stack/amplify-doctorstrack-dev-120939/6c910b40-01d9-11ee-acc9-0e93e0e4cc74",
+      "AmplifyAppId": "d2r09f4usr0yez"
+    },
+    "categories": {
+      "auth": {
+        "doctorstrack7061c562": {}
+      },
+      "api": {
+        "doctorstrack": {}
+      }
+    }
+  }
+}
